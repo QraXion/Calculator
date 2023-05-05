@@ -1,0 +1,6 @@
+C:\Users\ds103\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ds103\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ds103\source\repos\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\ds103\source\repos\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\ds103\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\ds103\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
