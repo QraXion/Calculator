@@ -13,7 +13,7 @@ namespace Calculator
             InitializeComponent();
         }
 
-        Calculator calculate = new Calculate(); // 建立計算機物件
+        Calculate calculate = new Calculate(); // 建立計算機物件
         int operators = -1;
 
         private void Add_Number(string _number)
